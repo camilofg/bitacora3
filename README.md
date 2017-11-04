@@ -20,6 +20,6 @@ En la siguiente entrega se realizaran planes de pruebas con Firebase (para difer
 A contiuancion se presentan las pruebas realizadas por Camilo Forero.
 ### 21 de octubre Camilo
 
-![Alt text](/firebase_images/Firebase_tests_21-10-2017.jpg.jpg?raw=true "21 de octubre")
+![Alt text](/firebase_images/Firebase_tests_21-10-2017.jpg?raw=true "21 de octubre")
 
 
