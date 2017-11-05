@@ -3,6 +3,7 @@
 -  [Camilo](#camilo)
     -  [21 de octubre Camilo](#21_de_octubre)
     -  [22 de octubre Camilo](#22_de_octubre)
+    -  [23 de octubre Camilo](#22_de_octubre)
     -  [24 de octubre Camilo](#24_de_octubre)
     -  [25 de octubre Camilo](#25_de_octubre)
     -  [28 de octubre Camilo](#28_de_octubre)
@@ -19,7 +20,14 @@ En la siguiente entrega se realizaran planes de pruebas con Firebase (para difer
 ## Camilo
 A contiuancion se presentan las pruebas realizadas por Camilo Forero.
 ### 21 de octubre Camilo
+Se realizaron pruebas con firebase sobre 5 dispositivos fisicos de marca LG en su mayoria a la aplicacion Car Report, para los cuales se genero un error en un LG G3 con API 19. Al revisar el video y los screenshots generados por firebase no se puede determinar la causa del error y en el reporte este se atribuye a un error de infraestructura, dejando la prueba inconclusa:
 
 ![Alt text](/firebase_images/Firebase_tests_21-10-2017.jpg?raw=true "21 de octubre")
 
+Tambien se hicieron pruebas a Open Source Billing de Behavior Driven Developmen con Cucumber, pero el tiempo de respuesta de la aplicacion excedi todos los timeouts configurados y no se pudieron ejecutar mas escenarios despues del login pues este nunca pudo ejecutarse correctamente. Dentro de este :
+
+![Alt text](/firebase_images/open_sourceBilling_21-10-2017.jpg?raw=true "21 de octubre")
+
+
+![Alt text](/firebase_images/error_open_sourceBilling_21-10-2017.jpg?raw=true "21 de octubre")
 
